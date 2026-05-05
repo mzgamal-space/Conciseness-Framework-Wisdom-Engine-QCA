@@ -10,7 +10,8 @@ Quickstart
 - Run an example: python "Quench TSP Benchmark.py"
 
 Contents
-Quench cluster LAPN_RealTime v3.*.py: algorithm implementations
+- LAPN algorithm implementations
+- Quench cluster LAPN_RealTime v1.py: algorithm implementations
 - Quench cluster universal v3.*.py: algorithm implementations
 - Quench_cluster_v4_hybrid.py, qca_hybrid_poc.py: hybrid proofs-of-concept
 - quench_cluster_v4_visualizations.py: plotting helpers
